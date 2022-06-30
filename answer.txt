@@ -1,2 +1,6 @@
-8.
-12.
+8. git checkout -b feature-tdtung-rebase
+    branch này sẽ có 7 commit vì tạo từ branch feature-tdtung
+12.git branch feature-tdtung-merge
+   git merge feature-tdtung
+
+Do chỉ sửa 3 file (file1.txt, file2.txt và  file3.txt )   ở branch feature-tdtung-merge nên không bị xung đột với branch feature-tdtung
